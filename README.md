@@ -4,6 +4,9 @@ Hash table with first index functioning as a overflow and items stored in bucket
 student files are for testing includes writing to json
 
 ### General Exercise overview
+
+![Simple Indexed File Structure](sifs.png)
+
 Constraints
 • Use of of structures  
 • Memory allocation via malloc() and free()  
